@@ -50,7 +50,7 @@ This project applies a complete data science workflow to a synthetic dataset, fo
 
 ### Part 2: Predictive Modeling
  **Model Development**:
-   - **File**: `Task 2 - Application of predictive models.html`
+   - **File**: `Task 2 - Application of predictive models - Matan Shemesh.html`
    - **Tasks**:
      - Apply machine learning models to the prepared dataset (`DF_FINAL.csv`).
      - Evaluate model performance using metrics like accuracy, precision, recall, etc.
